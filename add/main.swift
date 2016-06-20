@@ -9,4 +9,9 @@
 import Foundation
 
 print("Hello, World!")
+let a = 2
+let b = 4
+var  c = a + b
+print (c)
+
 
